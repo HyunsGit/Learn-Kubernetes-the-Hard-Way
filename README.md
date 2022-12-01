@@ -7,9 +7,13 @@
 <English>
 Check the dollar sign for all commands inside the guideline.
 Commands that you have to run on your master, worker, nginx reverse proxy, local machine are marked as colorized dollar sign
-master = blue dollar \n
-worker = red dollar \n
-nginx reverse proxy = dark green \n
+  
+master = blue dollar
+  
+worker = red dollar
+  
+nginx reverse proxy = dark green
+
 local machine = orange
 
   
